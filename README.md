@@ -4,9 +4,8 @@ In web and UI design, achieving consistency and precision in layout, spacing, an
 *Created with AI*
 
 ---
-
 | **Pixel value** | **Common use cases in UI design** |
-| --- | --- |
+| ------------- | -------------|
 | 4 pixels | Frequently used for small adjustments, borders, and fine details in UI design. |
 | 6 pixels | Commonly used for small spacing and margins where finer granularity is needed. |
 | 8 pixels | Often used as the smallest unit for padding, margins, and line heights. |
@@ -149,4 +148,4 @@ In web and UI design, achieving consistency and precision in layout, spacing, an
 | 1840 pixels | Commonly used for extra-wide content and spacious UIs. |
 | 1920 pixels | A standard width for full HD screens and web design templates. |
 | 2000 pixels | Suitable for wide content layouts and spacious designs. |
-| 2048 pixels | A common width for high-resolution screens and large content. |
+| 2048 pixels &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A common width for high-resolution screens and large content. |
